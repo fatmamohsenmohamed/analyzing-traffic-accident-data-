@@ -15,7 +15,7 @@ To view the dashboard:
 3. **Explore Data:** Use filters and interactive elements to explore different aspects of the data.
 
 ## Screenshots
-![Uploading excel.PNG…]()
+![Alt text](![excel](https://github.com/fatmamohsenmohamed/analyzing-traffic-accident-data-/assets/125199503/1b58e818-e05f-4ba6-9d43-fcd6b07b5a5e))
 
 ## Data Sources
 - **Raw Data:** [Source of raw data]
