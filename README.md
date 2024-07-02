@@ -1,7 +1,7 @@
 # Road Accident Data Dashboard
 
 ## Overview
-This Excel dashboard provides visualizations and insights into road accident data collected over [time period]. It aims to help stakeholders understand trends, identify high-risk areas, and make data-driven decisions to improve road safety.
+This Excel dashboard provides visualizations and insights into road accident data collected over [2021/2022]. It aims to help stakeholders understand trends, identify high-risk areas, and make data-driven decisions to improve road safety.
 
 ## Features
 - **Visualization:** Charts and graphs depicting accident trends, severity, and locations.
@@ -11,11 +11,11 @@ This Excel dashboard provides visualizations and insights into road accident dat
 ## Getting Started
 To view the dashboard:
 1. **Clone the Repository:** `git clone [repository-url]`
-2. **Open Excel File:** Navigate to `dashboard.xlsx` and open it in Microsoft Excel.
+2. **Open Excel File:** Navigate to `https://drive.google.com/file/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/view` and open it in Microsoft Excel.
 3. **Explore Data:** Use filters and interactive elements to explore different aspects of the data.
 
 ## Screenshots
-![Dashboard Overview](screenshots/dashboard.png)
+![Uploading excel.PNG…]()
 
 ## Data Sources
 - **Raw Data:** [Source of raw data]
